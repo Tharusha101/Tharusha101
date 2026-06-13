@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Tharusha 👋
 
-<!--
-**Tharusha101/Tharusha101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical & Electronic Engineering student who likes building at the intersection of **AI, tooling, and control systems**.
+Mostly writing Python these days — from ML experiments to developer tooling — with a side of MATLAB for control and signal work.
 
-Here are some ideas to get you started:
+- 🎓 Studying: Electrical & Electronic Engineering
+- 🔭 Currently building: AI tooling, code-generation, and synthetic-data projects
+- 🌱 Exploring: agentic systems, MCP servers, and computer vision
+- 📫 Reach me: tharusha.pahasara1019@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+Languages: Python · MATLAB  |  Domains: Machine Learning · Computer Vision · Control Systems · Embedded & Electronics · Developer Tooling
