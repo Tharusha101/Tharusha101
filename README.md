@@ -7,6 +7,7 @@ Mostly writing Python these days — from ML experiments to developer tooling �
 - 🔭 Currently building: AI tooling, code-generation, and synthetic-data projects
 - 🌱 Exploring: agentic systems, MCP servers, and computer vision
 - 📫 Reach me: tharusha.pahasara1019@gmail.com
+- ⚡ Fun fact: I use Arch, btw.
 
 ### 🛠️ Tech & Tools
 
@@ -15,6 +16,6 @@ Mostly writing Python these days — from ML experiments to developer tooling �
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 
 Languages: Python · MATLAB  |  Domains: Machine Learning · Computer Vision · Control Systems · Embedded & Electronics · Developer Tooling
