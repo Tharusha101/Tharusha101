@@ -228,24 +228,7 @@ The best way to understand transformers is to build one: multi-head self-attenti
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tharusha101&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed" height="170" alt="GitHub Stats"/>
 <img src="https://streak-stats.demolab.com/?user=Tharusha101&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" height="170" alt="Streak Stats"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharusha101&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&langs_count=8" alt="Top Languages"/>
-
-</div>
-
----
-
-<!-- ─────────────────────────────  GITHUB TROPHIES  ───────────────────────────── -->
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tharusha101&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
 
 </div>
 
